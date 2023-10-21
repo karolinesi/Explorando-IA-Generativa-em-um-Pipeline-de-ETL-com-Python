@@ -5,3 +5,4 @@ Transformação: Adentraremos o universo da IA com o GPT-4 da OpenAI, transforma
 Carregamento: Finalizaremos o processo enviando essas mensagens de volta para a API da 'Santander Dev Week 2023'. Este passo ilustra como dados transformados são reintegrados em sistemas, completando o ciclo de um pipeline ETL.
 
 Repositório da API: https://github.com/digitalinnovationone/santander-dev-week-2023-api
+Link do Notebook criado via Google Colab com todo o código-fonte desenvolvido neste Desafio de Projeto: https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing)https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing
